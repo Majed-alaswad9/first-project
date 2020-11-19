@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\Calacture\Calacture\bin\Debug\Calacture.exe.config
+C:\Users\ASUS\source\repos\Calacture\Calacture\bin\Debug\Calacture.exe
+C:\Users\ASUS\source\repos\Calacture\Calacture\bin\Debug\Calacture.pdb
+C:\Users\ASUS\source\repos\Calacture\Calacture\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Calacture\Calacture\obj\Debug\Calacture.Form1.resources
+C:\Users\ASUS\source\repos\Calacture\Calacture\obj\Debug\Calacture.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Calacture\Calacture\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Calacture\Calacture\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Calacture\Calacture\obj\Debug\Calacture.exe
+C:\Users\ASUS\source\repos\Calacture\Calacture\obj\Debug\Calacture.pdb
